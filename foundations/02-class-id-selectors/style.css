@@ -1,8 +1,6 @@
 .oddlines {
     background-color: #ffa7a7;
-    font-family: Verdana;
-    font-family: "DejaVu Sans";
-    font-family: sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .third {
